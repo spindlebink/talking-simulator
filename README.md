@@ -4,6 +4,8 @@ This is the source code to *Talking Simulator 2021 Ultimate: Game of the Year Ed
 
 ## The Game
 
+It's on Itch.io [here](https://spindlebink.itch.io/talking-simulator).
+
 You won't find an explanation here, sorry, but you might try [here](https://en.wikipedia.org/wiki/Special:Random)
 
 ## License
